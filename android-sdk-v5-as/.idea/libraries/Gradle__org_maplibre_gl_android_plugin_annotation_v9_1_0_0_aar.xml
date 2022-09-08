@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.maplibre.gl:android-plugin-annotation-v9:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/77ce0275c20d74ede006f5fec14e0e32/jetified-android-plugin-annotation-v9-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ccd04c8bed334571eadf97078f6e1e0b/jetified-android-plugin-annotation-v9-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ccd04c8bed334571eadf97078f6e1e0b/jetified-android-plugin-annotation-v9-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ccd04c8bed334571eadf97078f6e1e0b/jetified-android-plugin-annotation-v9-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.maplibre.gl/android-plugin-annotation-v9/1.0.0/4e8a47581a1d4a21c14e2b7816c2645426f39a5/android-plugin-annotation-v9-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

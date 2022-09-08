@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: C./Users/Hai/Documents/Freelance/NatureEye/Code/nature_eye_android_v5/android-sdk-v5-as/libs/all/all-release-5.1.0_593_sec.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73613e426c7dd354776579b9f2adcb83/jetified-all-release-5.1.0_593_sec/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73613e426c7dd354776579b9f2adcb83/jetified-all-release-5.1.0_593_sec/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73613e426c7dd354776579b9f2adcb83/jetified-all-release-5.1.0_593_sec/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

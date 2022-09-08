@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: org.maplibre.gl:android-sdk:9.4.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1886dec23c0dc45ffbd452e3fdef8a67/jetified-android-sdk-9.4.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1886dec23c0dc45ffbd452e3fdef8a67/jetified-android-sdk-9.4.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1886dec23c0dc45ffbd452e3fdef8a67/jetified-android-sdk-9.4.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1886dec23c0dc45ffbd452e3fdef8a67/jetified-android-sdk-9.4.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.maplibre.gl/android-sdk/9.4.2/6e6783f8e0cca73960391ea4b181beb47bbb0a94/android-sdk-9.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.maplibre.gl/android-sdk/9.4.2/3900ca3058419ea50280737d908e5078e7e2c235/android-sdk-9.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

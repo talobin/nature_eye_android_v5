@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-sdk-v5-as.iml" filepath="$PROJECT_DIR$/.idea/modules/android-sdk-v5-as.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1203738922/android-sdk-v5-as.sample-app-aircraft.iml" filepath="$PROJECT_DIR$/.idea/modules/1203738922/android-sdk-v5-as.sample-app-aircraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1835196943/android-sdk-v5-as.sample-app-aircraft.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1835196943/android-sdk-v5-as.sample-app-aircraft.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1835196943/android-sdk-v5-as.sample-app-aircraft.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1835196943/android-sdk-v5-as.sample-app-aircraft.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/395381517/android-sdk-v5-as.sample-app-all.iml" filepath="$PROJECT_DIR$/.idea/modules/395381517/android-sdk-v5-as.sample-app-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-717027576/android-sdk-v5-as.sample-app-all.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-717027576/android-sdk-v5-as.sample-app-all.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-717027576/android-sdk-v5-as.sample-app-all.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-717027576/android-sdk-v5-as.sample-app-all.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1894527544/android-sdk-v5-as.sample-app-handheld.iml" filepath="$PROJECT_DIR$/.idea/modules/1894527544/android-sdk-v5-as.sample-app-handheld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1768981731/android-sdk-v5-as.sample-app-handheld.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1768981731/android-sdk-v5-as.sample-app-handheld.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1768981731/android-sdk-v5-as.sample-app-handheld.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1768981731/android-sdk-v5-as.sample-app-handheld.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-789020561/android-sdk-v5-as.sample-module-aircraft.iml" filepath="$PROJECT_DIR$/.idea/modules/-789020561/android-sdk-v5-as.sample-module-aircraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-979873430/android-sdk-v5-as.sample-module-aircraft.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-979873430/android-sdk-v5-as.sample-module-aircraft.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-979873430/android-sdk-v5-as.sample-module-aircraft.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-979873430/android-sdk-v5-as.sample-module-aircraft.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/231671172/android-sdk-v5-as.sample-module-common.iml" filepath="$PROJECT_DIR$/.idea/modules/231671172/android-sdk-v5-as.sample-module-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1667966657/android-sdk-v5-as.sample-module-common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1667966657/android-sdk-v5-as.sample-module-common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1667966657/android-sdk-v5-as.sample-module-common.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1667966657/android-sdk-v5-as.sample-module-common.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-98231939/android-sdk-v5-as.sample-module-handheld.iml" filepath="$PROJECT_DIR$/.idea/modules/-98231939/android-sdk-v5-as.sample-module-handheld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-289084808/android-sdk-v5-as.sample-module-handheld.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-289084808/android-sdk-v5-as.sample-module-handheld.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-289084808/android-sdk-v5-as.sample-module-handheld.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-289084808/android-sdk-v5-as.sample-module-handheld.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1081236582/android-sdk-v5-as.uxsdk.iml" filepath="$PROJECT_DIR$/.idea/modules/-1081236582/android-sdk-v5-as.uxsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/549466431/android-sdk-v5-as.uxsdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/549466431/android-sdk-v5-as.uxsdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/549466431/android-sdk-v5-as.uxsdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/549466431/android-sdk-v5-as.uxsdk.unitTest.iml" />
+    </modules>
+  </component>
+</project>

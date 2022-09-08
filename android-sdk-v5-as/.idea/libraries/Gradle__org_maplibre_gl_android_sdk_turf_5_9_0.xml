@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.maplibre.gl:android-sdk-turf:5.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.maplibre.gl/android-sdk-turf/5.9.0/886b44f150bfe8576e2536ef1334780defeae827/android-sdk-turf-5.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.maplibre.gl/android-sdk-turf/5.9.0/597364767b9fe746c572e5cedce6ab72e6684dbc/android-sdk-turf-5.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.maplibre.gl/android-sdk-turf/5.9.0/dd80ee6f2118f30375d2bd86c1cebc9278c7ab95/android-sdk-turf-5.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

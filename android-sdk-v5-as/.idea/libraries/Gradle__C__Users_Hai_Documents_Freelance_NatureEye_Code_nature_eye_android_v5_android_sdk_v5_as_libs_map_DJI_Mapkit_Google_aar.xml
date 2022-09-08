@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: C./Users/Hai/Documents/Freelance/NatureEye/Code/nature_eye_android_v5/android-sdk-v5-as/libs/map/DJI-Mapkit-Google.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e8a667baa89c99a38a3e385dad19bf4/jetified-DJI-Mapkit-Google/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e8a667baa89c99a38a3e385dad19bf4/jetified-DJI-Mapkit-Google/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e8a667baa89c99a38a3e385dad19bf4/jetified-DJI-Mapkit-Google/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
